@@ -7,6 +7,6 @@ int main()
     printf("Enter b value:");
     scanf("%d",&b);
     c=a-b;
-    printf("Subtrsctionof two numbers:%d",c);
+    printf("Subtraction of two numbers:%d",c);
     return 0;
 }
