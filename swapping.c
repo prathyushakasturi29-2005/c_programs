@@ -9,6 +9,6 @@ scanf("%d",&b);
 temp=a;
 a=b;
 b=temp;
-printf("After swapping:a=%d,b=%d\n",a,b,temp);
+printf("After swapping:a=%d,b=%d",a,b,temp);
 return 0;
 }
