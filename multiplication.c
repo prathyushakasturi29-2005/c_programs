@@ -1,12 +1,12 @@
 #include<stdio.h>
 int main()
 {
-    int a,b,c;
-    printf("Enter a value:");
-    scanf("%d",&a);
-    printf("Enter b value:");
-    scanf("%d",&b);
+    int a=2;
+    int b=3;
+    int c;
     c=a*b;
-    printf("Multiplication of two numbers:%d",c);
+    printf("Multilication of two numbers:%d",c);
     return 0;
 }
+
+   
