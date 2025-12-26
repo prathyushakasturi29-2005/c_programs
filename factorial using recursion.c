@@ -19,7 +19,6 @@ int main()
     n = 13;
     factorial_iteration(n);
     n = 9;
-    printf("Factorial of %d using recursion:%d\n", n,
-           factorial(n));
+    printf("Factorial of %d using recursion:%d\n", n, factorial(n));
     return 0;
 }
